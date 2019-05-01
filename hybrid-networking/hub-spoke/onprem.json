@@ -33,8 +33,8 @@
                         "vmCount": 1,
                         "namePrefix": "jb",
                         "size": "Standard_DS1_v2",
-                        "adminUsername": "",
-                        "adminPassword": "",
+                        "adminUsername": "mutasim1438@outlook.com",
+                        "adminPassword": "Abdu1Kar33m",
                         "osType": "windows",
                         "virtualNetwork": {
                             "resourceGroupName": "onprem-vnet-rg",
